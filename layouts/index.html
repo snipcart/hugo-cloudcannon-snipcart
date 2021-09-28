@@ -1,0 +1,7 @@
+{{ define "main" }}
+<main class="products">
+{{ range .Site.Data.products }}
+  {{ partial "product" . }}
+{{ end }}
+</main>
+{{ end }}
