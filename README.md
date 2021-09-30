@@ -2,7 +2,7 @@
 
 # Hugo Tutorial: How to Build a Fast Static E-Commerce Site
 
-In this tutorial, we created a simple e-commerce site with Hugo and connected it to CloudCannon
+In this tutorial, we'll created a simple static e-commerce site with Hugo and connected it to CloudCannon
 
 Technical steps:
 
