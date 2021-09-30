@@ -12,4 +12,5 @@ Technical steps:
 - Host on CloudCannon
 
 🧑‍💻 Follow the tutorial [here](https://snipcart.com/blog/hugo-tutorial-static-site)
+
 👀 See the live demo [here](https://airy-nature.cloudvent.net/)
